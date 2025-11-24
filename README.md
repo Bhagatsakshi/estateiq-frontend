@@ -17,7 +17,7 @@ The backend API is built with **Django REST Framework** and hosted on Render.
 
 ## 🚀 Live Demo (Frontend)
 
-👉 [https://your-frontend-link.vercel.app/](https://your-frontend-link.vercel.app/)
+👉 [https://estateiq-market-analyzer.netlify.app/](https://estateiq-market-analyzer.netlify.app/)
 
 ### 🌐 Backend API (Render)
 
