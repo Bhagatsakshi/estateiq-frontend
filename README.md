@@ -87,7 +87,7 @@ package.json
 
 ---
 
-## 📸 Features Screenshot (Add after deployment)
+## 📸 Features 
 
 * Dashboard Interface
 * Summary Card
